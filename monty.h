@@ -10,3 +10,7 @@
 
 void op_push(stack_t **stack, unsigned int counter);
 void op_pall(stack_t **stack, unsigned int counter);
+void op_pint(stack_t **stack, unsigned int counter);
+
+
+#endif /* monty.h */
